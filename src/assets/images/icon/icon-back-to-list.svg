@@ -1,13 +1,1 @@
-<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g opacity="0.5">
-<rect width="7.22581" height="7.22581" fill="white"/>
-<rect y="12.3867" width="7.22581" height="7.22581" fill="white"/>
-<rect y="24.7744" width="7.22581" height="7.22581" fill="white"/>
-<rect x="12.3872" width="7.22581" height="7.22581" fill="white"/>
-<rect x="12.3872" y="12.3867" width="7.22581" height="7.22581" fill="white"/>
-<rect x="12.3872" y="24.7744" width="7.22581" height="7.22581" fill="white"/>
-<rect x="24.7744" width="7.22581" height="7.22581" fill="white"/>
-<rect x="24.7744" y="12.3867" width="7.22581" height="7.22581" fill="white"/>
-<rect x="24.7744" y="24.7744" width="7.22581" height="7.22581" fill="white"/>
-</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="none" viewBox="0 0 32 32"><g opacity=".5"><rect width="7.226" height="7.226" fill="#fff"/><rect width="7.226" height="7.226" y="12.387" fill="#fff"/><rect width="7.226" height="7.226" y="24.774" fill="#fff"/><rect width="7.226" height="7.226" x="12.387" fill="#fff"/><rect width="7.226" height="7.226" x="12.387" y="12.387" fill="#fff"/><rect width="7.226" height="7.226" x="12.387" y="24.774" fill="#fff"/><rect width="7.226" height="7.226" x="24.774" fill="#fff"/><rect width="7.226" height="7.226" x="24.774" y="12.387" fill="#fff"/><rect width="7.226" height="7.226" x="24.774" y="24.774" fill="#fff"/></g></svg>
